@@ -12,7 +12,7 @@ This program was created for a project while studying for an MSc in Cyber Securi
 **Instructions**
 1. Ensure data.csv matches the requirements above.
 2. Run the Python file monte_carlo_sim.py
-3. The program will export data for each risk in the console. The program will also generate graphs, this may take some time. DO NOT close the program until the graphs appear.
+3. The program will export data for each risk in the console. The program will also generate graphs, this may take some time. DO NOT close the program until the graphs appear. There will be 2 graphs per risk: Probability Density Histogram & Loss Expectency Curves
 
 **Imports**
 - NumPy
